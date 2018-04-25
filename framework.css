@@ -7,6 +7,10 @@
   float: left;
   width: 16.6667%;
 }
+.col-3{
+  float: left;
+  width:25%;
+}
 
 .row:before {
   display: table;
